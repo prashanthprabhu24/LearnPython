@@ -3,3 +3,5 @@
 In this course at first you will learn how computers works through program and data flows at every stage inside the computers , and then we will see how it evolved through decades and later we introduce you to python programming language and small single line code snippets of python . 
 Later we will look into the Python Community and How it will help you ._
 
+> If you already know any other programming language basics of Python then you can skip this course1
+
