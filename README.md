@@ -13,21 +13,21 @@ For more , Read the **"LICENCE"** !
 
 Course1 Name | File Name 
 ------------ | -----------
-What is programming Language ? | File/File1
-What is Python Programming Language ? | File/File2
-Welcome to Python.org | File/File3
-Application of Python | File/File4
-Reputation of Python | File/File5
-Python for New audiences | File/File6
-Diffrent versions of Python | File/File7
-Download Python 3.x | File/File8
-Play in a playground | File/File9
-Python Docs and how to use it | File/File10
-Python Enhancement Proposals | File/File11
-Top 5 Python basic Books | File/File12
-Top 5 Data Science/ML Python Books | File/File13
-Other good books and YT videos and Online free course providers | File/File14
-Python Community | File/File15
-PyCon and PSF | File/File16
-So Python | File/File17
+What is programming Language ? | Course1/File1
+What is Python Programming Language ? | Course1/File2
+Welcome to Python.org | Course1/File3
+Application of Python | Course1/File4
+Reputation of Python | Course1/File5
+Python for New audiences | Course1/File6
+Diffrent versions of Python | Course1/File7
+Download Python 3.x | Course1/File8
+Play in a playground | Course1/File9
+Python Docs and how to use it | Course1/File10
+Python Enhancement Proposals | Course1/File11
+Top 5 Python basic Books | Course1/File12
+Top 5 Data Science/ML Python Books | Course1/File13
+Other good books and YT videos and Online free course providers | Course1/File14
+Python Community | Course1/File15
+PyCon and PSF | Course1/File16
+So Python | Course1/File17
 
