@@ -7,7 +7,7 @@ That means - Any Part of the code in this course or the full code itself can the
 For more , Read the **"LICENCE"** :hugs:
 
 
-## Course Guide
+## Course Guide :writing_hand:
 * Courses 
   * Course1 - Why to Program Computer and Why Python ?
   * Course2 - Basics of Programming and Python .
