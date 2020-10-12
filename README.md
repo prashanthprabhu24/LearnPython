@@ -9,6 +9,6 @@ For more , Read the **"LICENCE"** !
 
 ## Course Guide
 
-**Concept Name | File Name** 
----------------- | -----------
+Concept Name | File Name 
+------------ | -----------
 Language | File1
