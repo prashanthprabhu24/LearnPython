@@ -5,7 +5,7 @@ Later we will look into the Python Community and How it will help you ._
 
 > If you already know any other programming language basics of Python then you can skip this course1
 
-Concept | File 
+Concept :pencil: | File :bookmark_tabs:
 --------|-------
 How computers works | File2
 How people code in 18's | File3
