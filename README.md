@@ -7,10 +7,10 @@ For more , Read the **"LICENCE"** !
 
 
 ## Course Guide
-* Course 
-  * Course1
-  * Course2
-  * Course3
-  * Course4
-  * Course5
+* Courses 
+  * Course1 - Why to Program Computer and Why Python ?
+  * Course2 - Basics of Programming and Python !
+  * Course3 - Intermediate Python and Skilled Programming methods !
+  * Course4 - Advance Modules usage 
+  * Course5 - Intro to Machine Learning through Python
 
