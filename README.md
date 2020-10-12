@@ -16,3 +16,6 @@ For more , Read the **"LICENCE"** !
   * Course5 - Intro to Machine Learning through Python .
   * Course6 - Tips and Tricks for life long programmers !
 
+- [x] do
+- [x] ok
+- [ ] uhm
