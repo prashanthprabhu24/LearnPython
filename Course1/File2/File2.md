@@ -19,7 +19,7 @@ How Could he possibly communicate with him ? <br/>
 ###### Computer language : 0's and 1's 
 <br/>
 For computer example : Consider a device called printer that prints the documents/images . How to say the printer through computer (that knows only 0's and 1's) to print something ? <br/>
-
+<img src="file2_2.jpg" width="700" height="400"><br/>
 
 
 
