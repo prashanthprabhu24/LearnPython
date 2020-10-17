@@ -29,5 +29,5 @@ How Could he possibly communicate with him ? <br/>
 * So Computer Scientist Invented High level languages on to pf Assembler , that been little easier to learn and write codes better than Assembly Language. <br/>
 * Fortran and COBOL are the first two High Level Languages. <br/>
 * The Compiler is the translator that converts the High level Languages to Assembly language, and later "C Language" came. <br/>
-<img src="file2_4.jpg" width="700" height="300"> <br/>
+<img src="file2_4.jpeg" width="700" height="300"> <br/>
 
