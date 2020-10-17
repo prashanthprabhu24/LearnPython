@@ -1,4 +1,4 @@
-# How Computers works with programs 
+### How Computers works with programs 
 ##### What are Computers 
 > Computers is a machine that are instructed to do some task via computer programming and it stores information(data) and outputs information(data) (by Wikipedia 2020)
 
@@ -17,22 +17,9 @@ How Could he possibly communicate with him ? <br/>
 * If Person-A needs to communicate with Person-B , the he needs someone who knows both "English" and "Spanish". <br/>
 * The Man , who is translator will get the task question that Person-B needs to do in "English" and he convert that to "Spanish" , then deliver it to Person-B. <br/>
 ###### Computer language : 0's and 1's 
+<br/>
+For computer example : Consider a device called printer that prints the documents/images . How to say the printer through computer (that knows only 0's and 1's) to print something ? <br/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-For example : Consider a device called printer that prints the documents/images . How to say the printer (that knows only 0's and 1's) to print something ? 
 
 
 
