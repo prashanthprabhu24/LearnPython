@@ -20,20 +20,13 @@ How Could he possibly communicate with him ? <br/>
 * For computer example : Consider a device called printer that prints the documents/images . How to say the printer through computer (that knows only 0's and 1's) to print something ? <br/>
 <img src="file2_2.jpg" width="700" height="300"><br/>
 * Here we use a translator called **Assembler**. <br/>
-* We use a language little bit similar to english called Assembly Language on Assembler and Assembler converts it to machine language and send it to computer(CPU perticularly).<br/>
+* We use a language little bit similar to english called Assembly Language on Assembler and Assembler converts it to machine language and send it to computer(CPU perticularly)<br/>
+* Assembly Language also known as Low level Language. <br/>
 <img src="file2_3.jpg" width="700" height="300"><br/>
-
-
-
-
-
-
-
-
-
-
-
-Early computers does only few numerical operations like Add, Subtract. Only using 0's and 1's it was possible to add , subtract any kind of numbers inculing decimal numbers.
-Binary number system is a number expressed using only 0 (zero) and 1 (one) . it also said as base-2 numerical system . 
+<br/>
+* Still Assembly Language Programming is been difficult to write large number of codes to do big task like operating systems.
+* So Computer Scientist Invented High level languages on to pf Assembler , that been little easier to learn and write codes better than Assembly Language. <br/>
+* Fortran and COBOL are the first two High Level Languages. 
+* The Compiler is the translator that converts the High level Languages to Assembly language, and later "C Language" came.
 
 
