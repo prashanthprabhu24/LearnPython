@@ -1,6 +1,6 @@
-### How Computers works with programs 
-##### What are Computers 
-> Computers is a machine that are instructed to do some task via computer programming and it stores information(data) and outputs information(data) (by Wikipedia 2020)
+### How Computers works with programs :grey_question:
+##### What are Computers :computer: :abacus:
+> :black_nib: Computers is a machine that are instructed to do some task via computer programming and it stores information(data) and outputs information(data) (by Wikipedia 2020):mag:
 
 * The main reason for manufacturing computers in early 19's is to make any tasks faster than humans with no (or minimum) error.<br/>
 * The Computers are made of collection of small devices like drivers , circuits , registers , logic gates , transitors etc .<br/> 
@@ -35,5 +35,5 @@ How Could he possibly communicate with him ? <br/>
 * Python is one of the famous High Level Language. <br/>
 <br/>
 > In File3/file3.md you will learn things of Python.<br/><br/>
-                          --------------------------------------------------------x x x------------------------------------------------------------------
+---------------------------------------------------------------------------x x x---------------------------------------------------------------------------
 
