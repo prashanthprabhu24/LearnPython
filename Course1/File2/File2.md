@@ -12,7 +12,7 @@ And humans have their own language like english , spanish etc . and we may need 
 
 Here is a scenario : A person-A knows only "english" and Person-B knows only "Spanish". Person-A wants to ask the way to Airport to someone and he sees no one around except Person-B . How Could he possibly communicate with him ? 
 
-! [Alt text] (file2_1.jpg?raw=true "Title") 
+! [] (Course1/File2f/ile2_1.jpg?raw=true "Title") 
 
 
 
