@@ -31,7 +31,9 @@ How Could he possibly communicate with him ? <br/>
 * The Compiler is the translator that converts the High level Languages to Assembly language. <br/>
 <img src="file2_4.jpeg" width="700" height="300"> <br/>
 <br/>
+
 * Python is one of the famous High Level Language. <br/>
-> In File3/file3.md you will learn things of Python.
+<br/>
+> In File3/file3.md you will learn things of Python.<br/><br/>
                           --------------------------------------------------------x x x------------------------------------------------------------------
 
