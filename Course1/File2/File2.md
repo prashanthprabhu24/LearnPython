@@ -10,8 +10,9 @@ The only language the computers know are binary numbers ( 0's and 1's ).
 
 And humans have their own language like english , spanish etc . and we may need to learn the binary numbers to talk to computers ? 
 
-Here is a scenario : A person-A knows only "english" and Person-B knows only "Spanish". Person-A wants to ask the way to Airport to someone and he sees no one around except Person-B . How Could he possibly communicate with him ? 
+**Here is a scenario :** A *Person-A* knows only *"English"* and *Person-B* knows only *"Spanish"*. 
 
+Person-A wants to ask the way to Airport to someone and he sees no one around except Person-B . How Could he possibly communicate with him ? 
 <img src="file2_1.jpg" width="700" height="400" >
 
 
