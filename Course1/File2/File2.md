@@ -1,10 +1,10 @@
 ### How Computers works with programs :grey_question:
 ##### What are Computers :computer: :abacus:
-> :black_nib: Computers is a machine that are instructed to do some task via computer programming and it stores information(data) and outputs information(data) (by Wikipedia 2020):mag:
+> :black_nib: Computers is a machine that are instructed to do some task via computer programming and it also stores information(data) and outputs information(data) (from Wikipedia 2020:mag:)
 
 * The main reason for manufacturing computers in early 19's is to make any tasks faster than humans with no (or minimum) error.<br/>
 * The Computers are made of collection of small devices like drivers , circuits , registers , logic gates , transitors etc .<br/> 
-* All these devices takes only 1's and 0's as inputs.<br/>
+* All these devices takes only 1's and 0's as inputs and outputs.<br/>
 * The only language the computers know are binary numbers ( 0's and 1's ). Which is difficult for humans to learn <br/>
 * And humans have their own language like english , spanish etc . and we may need to learn the binary numbers to talk to computers ? <br/>
 * **Here is a scenario:bangbang::** A *Person-A* knows only *"English"* and *Person-B* knows only *"Spanish"*. <br/>
@@ -32,8 +32,8 @@ How Could he possibly communicate with him ? <br/>
 <img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_4.jpeg" width="700" height="300"> <br/>
 <br/>
 
-* Python is one of the famous High Level Language. <br/><br/>
-> In File3/file3.md you will learn things of Python.<br/><br/>
+* Python is one of the famous High Level Language. <br/>
+> In File3/file1.md you will learn things of Python.<br/><br/>
 
----------------------------------------------------------------------------x :diamond_shape_with_a_dot_inside: x---------------------------------------------------------------------------
+---------------------------------------------------------------------x :diamond_shape_with_a_dot_inside: x---------------------------------------------------------------------
 
