@@ -15,6 +15,6 @@ Python Docs | File5/..
 PEP | File6/..
 Top Books of Python for beginners | File7/..
 Python Community | File8/..
-PyCon vs PSF | File9/..
+PyCon & PSF | File9/..
 Let's Go Python ! | File10/..
 
