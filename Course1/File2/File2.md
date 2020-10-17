@@ -22,11 +22,12 @@ How Could he possibly communicate with him ? <br/>
 * Here we use a translator called **Assembler**. <br/>
 * We use a language little bit similar to english called Assembly Language on Assembler and Assembler converts it to machine language and send it to computer(CPU perticularly)<br/>
 * Assembly Language also known as Low level Language. <br/>
-<img src="file2_3.jpg" width="700" height="300"><br/>
+<img src="file2_3.jpg" width="700" height="300"> <br/>
 <br/>
-* Still Assembly Language Programming is been difficult to write large number of codes to do big task like operating systems.
+
+* Still Assembly Language Programming is been difficult to write large number of codes to do big task like operating systems.<br/>
 * So Computer Scientist Invented High level languages on to pf Assembler , that been little easier to learn and write codes better than Assembly Language. <br/>
-* Fortran and COBOL are the first two High Level Languages. 
-* The Compiler is the translator that converts the High level Languages to Assembly language, and later "C Language" came.
+* Fortran and COBOL are the first two High Level Languages. <br/>
+* The Compiler is the translator that converts the High level Languages to Assembly language, and later "C Language" came. <br/>
 
 
