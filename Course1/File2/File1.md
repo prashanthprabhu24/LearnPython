@@ -33,7 +33,7 @@ How Could he possibly communicate with him ? <br/>
 <br/>
 
 * Python is one of the famous High Level Language. <br/>
-> In File3/file1.md you will learn things of Python.<br/><br/>
+> Continue with File2/File2.md
 
 ---------------------------------------------------------------------x :diamond_shape_with_a_dot_inside: x---------------------------------------------------------------------
 
