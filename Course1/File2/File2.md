@@ -19,9 +19,9 @@ How Could he possibly communicate with him ? <br/>
 ###### Computer language : 0's and 1's is also known as Machine Language <br/>
 * For computer example : Consider a device called printer that prints the documents/images . How to say the printer through computer (that knows only 0's and 1's) to print something ? <br/>
 <img src="file2_2.jpg" width="700" height="300"><br/>
-* Here we use a translator called **Assembler**. 
-* We use a language little bit similar to english on assembler and assembler converts it to machine language and send it to computer(CPU perticularly).
-
+* Here we use a translator called **Assembler**. <br/>
+* We use a language little bit similar to english on assembler and assembler converts it to machine language and send it to computer(CPU perticularly).<br/>
+<img src="file2_3.jpg" width="700" height="300"><br/>
 
 
 
