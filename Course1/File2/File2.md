@@ -1,5 +1,5 @@
 # How Computers works with programs 
-### What are Computers 
+##### What are Computers 
 > Computers is a machine that are instructed to do some task via computer programming and it stores information(data) and outputs information(data) (by Wikipedia 2020)
 
 * The main reason for manufacturing computers in early 19's is to make any tasks faster than humans with no (or minimum) error.<br/>
@@ -15,8 +15,9 @@ How Could he possibly communicate with him ? <br/>
 
 * Here , Person-A doesn't understand what Person-B saying and Person-B doesn't understand what Person-A saying. <br/>
 * If Person-A needs to communicate with Person-B , the he needs someone who knows both "English" and "Spanish". <br/>
-* The Man , who is translator will get the task that Person-B needs to do in "English" and he convert that to "Spanish" , then deliver it to Person-B. <br/>
+* The Man , who is translator will get the task question that Person-B needs to do in "English" and he convert that to "Spanish" , then deliver it to Person-B. <br/>
 ###### Computer language : 0's and 1's 
+
 
 
 
