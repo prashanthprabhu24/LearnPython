@@ -12,7 +12,7 @@ And humans have their own language like english , spanish etc . and we may need 
 
 Here is a scenario : A person-A knows only "english" and Person-B knows only "Spanish". Person-A wants to ask the way to Airport to someone and he sees no one around except Person-B . How Could he possibly communicate with him ? 
 
-<img src="File2/file2_1.jpg" width="200" height="100" >
+<img src="file2_1.jpg" width="700" height="400" >
 
 
 
