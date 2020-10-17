@@ -5,12 +5,17 @@
 * The main reason for manufacturing computers in early 19's is to make any tasks faster than humans with no (or minimum) error.<br/>
 * The Computers are made of collection of small devices like drivers , circuits , registers , logic gates , transitors etc .<br/> 
 * All these devices takes only 1's and 0's as inputs.<br/>
-* The only language the computers know are binary numbers ( 0's and 1's ). <br/>
+* The only language the computers know are binary numbers ( 0's and 1's ). Which is difficult for humans to learn <br/>
 * And humans have their own language like english , spanish etc . and we may need to learn the binary numbers to talk to computers ? <br/>
 * **Here is a scenario :** A *Person-A* knows only *"English"* and *Person-B* knows only *"Spanish"*. <br/>
-Person-A wants to ask the way to Airport to someone and he sees no one around except Person-B . How Could he possibly communicate with him ? <br/>
-
-<img src="file2_1.jpg" width="700" height="400" >
+Person-A wants to ask the way to Airport to someone and he sees no one around except Person-B . <br/>
+How Could he possibly communicate with him ? <br/>
+<img src="file2_1.jpg" width="700" height="400" ><br/>
+<br/>
+* Here , Person-A doesn't understand what Person-B saying and Person-B doesn't understand what Person-A saying.
+* If Person-A needs to communicate with Person-B , the he needs someone who knows both "English" and "Spanish". 
+* The Man , who is translator will get the task that Person-B needs to do in "English" and he convert that to "Spanish" , then deliver it to Person-B
+###### Computer language : 0's and 1's 
 
 
 
