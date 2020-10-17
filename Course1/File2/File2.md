@@ -16,10 +16,9 @@ How Could he possibly communicate with him ? <br/>
 * Here , Person-A doesn't understand what Person-B saying and Person-B doesn't understand what Person-A saying. <br/>
 * If Person-A needs to communicate with Person-B , the he needs someone who knows both "English" and "Spanish". <br/>
 * The Man , who is translator will get the task question that Person-B needs to do in "English" and he convert that to "Spanish" , then deliver it to Person-B. <br/>
-###### Computer language : 0's and 1's 
-<br/>
-For computer example : Consider a device called printer that prints the documents/images . How to say the printer through computer (that knows only 0's and 1's) to print something ? <br/>
-<img src="file2_2.jpg" width="700" height="400"><br/>
+###### Computer language : 0's and 1's <br/>
+* For computer example : Consider a device called printer that prints the documents/images . How to say the printer through computer (that knows only 0's and 1's) to print something ? <br/>
+<img src="file2_2.jpg" width="700" height="300"><br/>
 
 
 
