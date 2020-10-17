@@ -1,5 +1,5 @@
 # Welcome to Course1 :octocat:
-> _Here i have assumed you don't know anything about programming a computer and nothing about python language. I have provided everything needed in the linear order of concept. 
+> _Here i have assumed you don't know anything about programming a computer and nothing about python language. Only prerequisite assumed is basics of Computer Architecture knowledge and Basic operating System. I have provided everything needed in the linear order of concept. 
 In this course at first you will learn how computers works through program and data flows at every stage inside the computers , and then we will see how it evolved through decades and later we introduce you to python programming language and small single line code snippets of python . 
 Later we will look into the Python Community and How it will help you ._
 
@@ -7,6 +7,7 @@ Later we will look into the Python Community and How it will help you ._
 
 Concept :pencil: | File :bookmark_tabs:
 --------|-------
+Overview of Course1 | File1 (this)
 How computers works | File2
 How people code in 18's | File3
 Overview of Digital Programming | File4
