@@ -1,5 +1,5 @@
 # LearnPython :snake:
-*A free course provided for people who wants to learn **Python Programming Language***.
+*A free course provided for people who wants to learn **Python Programming Language*** (Hard Way)
 
 > This project is licensed under the terms of the **MIT** license. 
 
