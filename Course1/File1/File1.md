@@ -3,11 +3,11 @@
 In this course at first you will learn how computers works through program and data flows at every stage inside the computers , and then we will see how it evolved through decades and later we introduce you to python programming language and small single line code snippets of python . 
 Later we will look into the Python Community and How it will help you ._
 #### This course is : 
-                    * Not for people who needs just to learn basics in short time.
-                    * For people who can spend long period of time (min 3 months).
-                    * Not for people who doesn't need everything from python.
-                    * For people who wants to go from newbie biginners to expert python programmer.
-                    * For people to learn perfect, effecient, flexible software programming.
+* Not for people who needs just to learn basics in short time.
+* For people who can spend long period of time (min 3 months).
+* Not for people who doesn't need everything from python.
+* For people who wants to go from newbie biginners to expert python programmer.
+* For people to learn perfect, effecient, flexible software programming.
 > If you already know any other programming language or basics of Python then you can skip this course1
 
 Concept :pencil: | File :bookmark_tabs:
