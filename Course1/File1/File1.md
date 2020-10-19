@@ -6,7 +6,7 @@ Later we will look into the Python Community and How it will help you ._
 * Not for people who needs just to learn basics in short time.
 * For people who can spend long period of time (min 3 months).
 * Not for people who doesn't need everything from python.
-* For people who wants to go from newbie biginners to expert python programmer.
+* For people who wants to go from newbie beginners to expert python programmer.
 * For people to learn perfect, effecient, flexible software programming.
 > If you already know any other programming language or basics of Python then you can skip this course1
 
