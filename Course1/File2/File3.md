@@ -3,12 +3,14 @@
 * Data is a peice of Information. 
 * Everything is a data , Eg: Person Name, Phone Number, Time of the meeting, Name of the File, Sets of pullups today, Songs, Alphabets, Numbers, Sumbols.
 
-<!--Data
+<!--
+Data
 $ Data in computer hardware.
 $ Representation of data in computer.
 $ Input and Output Data.
-$ Input and output Devices.-->
-
+$ Input and output Devices.
+$ How data is stored and computed
+-->
 * In Computer, there are two basic two types of data : 
     1. Input Data.
     2. Output Data.
