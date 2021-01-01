@@ -15,7 +15,8 @@ How Could he possibly communicate with him ? <br/>
 
 * Here , Person-A doesn't understand what Person-B saying and Person-B doesn't understand what Person-A saying. <br/>
 * If Person-A needs to communicate with Person-B , the he needs someone who knows both "English" and "Spanish". <br/>
-* The Man , who is translator will get the task question that Person-B needs to do in "English" and he convert that to "Spanish" , then deliver it to Person-B. <br/>
+* The Man , who can translate English to Spanish and vice-versa.
+* The translator will get the task question that Person-B needs to do in "English" and he convert that to "Spanish" , than be delivered it to Person-B. and again does in opposite to if needed. <br/>
 ###### Computer language : 0's and 1's is also known as Machine Language <br/>
 * For computer example : Consider a device called printer that prints the documents/images . How to say the printer through computer (that knows only 0's and 1's) to print something ? <br/>
 <img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_2.jpg" width="700" height="300"><br/>
@@ -25,14 +26,15 @@ How Could he possibly communicate with him ? <br/>
 <img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_3.jpg" width="700" height="300"> <br/>
 <br/>
 
-* Still Assembly Language Programming is been difficult to write large number of codes to do big task like operating systems.<br/>
-* So Computer Scientist Invented High level languages on to pf Assembler , that been little easier to learn and write codes better than Assembly Language. <br/>
+* Still Assembly Language Programming is been difficult to write large number of codes to do big task like operating systems does.<br/>
+* So Computer Scientist Invented High level languages on top of Assembler , that been little easier to learn and write codes better than Assembly Language. <br/>
 * Fortran and COBOL are the first two High Level Languages, and later "C Language" came. <br/>
 * The Compiler is the translator that converts the High level Languages to Assembly language. <br/>
+* There is an translator called 'Intrepeter' , this 'Intrepreter' does similar work like 'Compiler' yet in diffrent way.
 <img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_4.jpeg" width="700" height="300"> <br/>
 <br/>
 
-* Python is one of the famous High Level Language. <br/>
+* Python is one of the famous High Level Language. It uses 'Intrepeter' <br/>
 > Continue with File2/File2.md
 
 ---------------------------------------------------------------------x :diamond_shape_with_a_dot_inside: x---------------------------------------------------------------------
