@@ -34,7 +34,8 @@ $ How data is stored and computed
     5. Audio
     6. Video , etc.
     We will discuss each and how it stored as binary numbers in computers.
-* Numbers : Any kind of Whole Numbers can be stored in computer memeory by converting it into Binary numbers.
+* ######Numbers : 
+           * Any kind of Whole Numbers can be stored in computer memeory by converting it into Binary numbers.
            * Intergers to Binary Conversion : Converting a Interger numbers into Binary numbers .
                 * Eg : (int)    = (binary) . '=' indicates 'Equivalence'
                     1. 24       = 11000
@@ -45,14 +46,15 @@ $ How data is stored and computed
            * This conversion is also known as Decimal to Binary conversion.
            * Its possible to Convert Binary Back to Decimal and its Known as Binary to decimal Conversion.
            * The Numbers is converted into Decimal is stored. and it retrieved back to Decimal Numbers.
- <img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_6.jpg" width="700" height="300"> <br/>
-* Letters and Symbols : Any English Alphabets / Special symbols/greek symbols/Other languages can be converted into Binary.
+ <img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_6.jpg" width="700" height="300"> <br/><br/>
+* ######Letters and Symbols : 
+            * Any English Alphabets / Special symbols/greek symbols/Other languages can be converted into Binary.
             * ASCII : American Standard Code for Information Interchange. This converts alphabets/symbols into decimal numbers and then to binary.
             * ASCII code of "A" is 65
             * Google ASCII Table to refer ASCII code for all letters and symbols.
-<img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_7.jpg" width="700" height="300"> <br/>
-* Images : 
-* Audio : 
-* Video : 
+<img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_7.jpg" width="700" height="300"> <br/><br/>
+* ######Images : 
+* ######Audio : 
+* ######Video : 
     
     
