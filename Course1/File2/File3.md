@@ -38,10 +38,10 @@ $ How data is stored and computed
     * Any kind of Whole Numbers can be stored in computer memeory by converting it into Binary numbers.
     * Intergers to Binary Conversion : Converting a Interger numbers into Binary numbers .
     > Eg : <br/>
-        (int)  &nbsp  &nbsp &nbsp &nbsp  = (binary) . '=' indicates 'Equivalence' <br/>
-         24    &nbsp &nbsp &nbsp &nbsp &nbsp    = 11000 <br/>
-       2022    &nbsp &nbsp &nbsp  = 11111100110 <br/>
-      18.63    &nbsp &nbsp = 10010.101 <br/>
+        (int)  &nbsp;  &nbsp; &nbsp; &nbsp;  = (binary) . '=' indicates 'Equivalence' <br/>
+         24    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    = 11000 <br/>
+       2022    &nbsp; &nbsp; &nbsp;  = 11111100110 <br/>
+      18.63    &nbsp; &nbsp; = 10010.101 <br/>
     3.14159  &nbsp = 11.001001 <br/>
     * Even Negative Numbers can be Converted into Binary.
     * This conversion is also known as Decimal to Binary conversion.
