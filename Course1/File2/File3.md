@@ -14,12 +14,12 @@ $ How data is stored and computed
 * In Computer, there are primarily two ways data is used: 
     1. Input Data.
     2. Output Data.
-1. Input Data :
+1. __Input Data :__
     * Any Data that used by computer (given as input) is called input data
     * Eg :  1. Voice/Songs/Music from microphone or files to computer processing.
             2. Alphabets,Numbers, Symbols, Event keys from Keybord and Mouse.
           
-2. Output Data : 
+2. __Output Data :__
     * Any Data the Comes out of the computer is called Output Data.
     * Eg : 1. Songs, voice, Music To loudspeaker.
            2. Alphabets, Numbers, Symbols To Display screen.
@@ -33,7 +33,7 @@ $ How data is stored and computed
     4. Images
     5. Audio
     6. Video , etc.
-    We will discuss each and how it stored as binary numbers in computers.
+    We will discuss each and how it stored as binary numbers in computers.<br/>
 * __Numbers :__ <br/>
            * Any kind of Whole Numbers can be stored in computer memeory by converting it into Binary numbers.<br/>
            * Intergers to Binary Conversion : Converting a Interger numbers into Binary numbers .<br/>
