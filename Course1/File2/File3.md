@@ -61,6 +61,9 @@ $ How data is stored and computed
     > (Redmi Note 7 Pro smart phone has 48Mp(48 mega pixel) camera)<br/>
     
 <img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_8.jpg" width="180" height="200"> &nbsp;&nbsp;&nbsp;<img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_9.jpg" width="500" height="200"> <br/><br/>
+    * The person in the above pic is 16th U.S President , Abraham Lincoln. 
+    * The Computer takes the Image and  makes a matrix of pixel values and stores the values in the same sequence in binary form.
+    
 
 * __Audio :__ <br/>
 * __Video :__ <br/>
