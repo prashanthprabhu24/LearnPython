@@ -49,10 +49,11 @@ $ How data is stored and computed
     * The Numbers is converted into Decimal is stored. and it retrieved back to Decimal Numbers.<br/>
  <img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_6.jpg" width="700" height="300"> <br/><br/>
 * __Letters and Symbols :__
-            * Any English Alphabets / Special symbols/greek symbols/Other languages can be converted into Binary.<br/>
-            * ASCII : American Standard Code for Information Interchange. This converts alphabets/symbols into decimal numbers and then to binary.<br/>
-            * ASCII code of "A" is 65<br/>
-            * Google ASCII Table to refer ASCII code for all letters and symbols.<br/>
+    * Any English Alphabets / Special symbols/greek symbols/Other languages can be converted into Binary.
+    * ASCII : American Standard Code for Information Interchange. This converts alphabets/symbols into decimal numbers and then to binary.
+    > Eg : <br/>
+        ASCII code of "A" is 65
+    * Google ASCII Table to refer ASCII code for all letters and symbols.<br/>
 <img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_7.jpg" width="700" height="300"> <br/><br/>
 * __Images :__ <br/>
 * __Audio :__ <br/>
