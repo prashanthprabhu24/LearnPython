@@ -55,7 +55,11 @@ $ How data is stored and computed
         ASCII code of "A" is 65
     * Google ASCII Table to refer ASCII code for all letters and symbols.<br/>
 <img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_7.jpg" width="700" height="300"> <br/><br/>
-* __Images :__ <br/>
+* __Images :__ 
+    * Images are the pictures , these pictures are made up of matrix of pixels.
+    * Pixel is a digital image length and is uses to measure the quality of images and camera's.
+    > (Redmi Note 7 Pro smart phone has 48Mp(48 mega pixel) camera)<br/>
+    
 * __Audio :__ <br/>
 * __Video :__ <br/>
     
