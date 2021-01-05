@@ -34,7 +34,7 @@ $ How data is stored and computed
     5. Audio
     6. Video , etc.
     We will discuss each and how it stored as binary numbers in computers.<br/>
-* __Numbers :__ <br/>
+* __Numbers :__ 
            * Any kind of Whole Numbers can be stored in computer memeory by converting it into Binary numbers.<br/>
            * Intergers to Binary Conversion : Converting a Interger numbers into Binary numbers .<br/>
                 * Eg : (int)    = (binary) . '=' indicates 'Equivalence'<br/>
@@ -47,7 +47,7 @@ $ How data is stored and computed
            * Its possible to Convert Binary Back to Decimal and its Known as Binary to decimal Conversion.<br/>
            * The Numbers is converted into Decimal is stored. and it retrieved back to Decimal Numbers.<br/>
  <img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_6.jpg" width="700" height="300"> <br/><br/>
-* __Letters and Symbols :__ <br/>
+* __Letters and Symbols :__
             * Any English Alphabets / Special symbols/greek symbols/Other languages can be converted into Binary.<br/>
             * ASCII : American Standard Code for Information Interchange. This converts alphabets/symbols into decimal numbers and then to binary.<br/>
             * ASCII code of "A" is 65<br/>
