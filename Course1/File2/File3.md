@@ -59,6 +59,7 @@ $ How data is stored and computed
     * Images are the pictures , these pictures are made up of matrix of pixels.
     * Pixel is a digital image length and is uses to measure the quality of images and camera's.
     > (Redmi Note 7 Pro smart phone has 48Mp(48 mega pixel) camera)<br/>
+    
 <img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_8.jpg" width="500" height="200"><img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_9.jpg" width="500" height="200"> <br/><br/>
 
 * __Audio :__ <br/>
