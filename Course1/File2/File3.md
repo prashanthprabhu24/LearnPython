@@ -95,4 +95,6 @@ $ How data is stored and computed
     * Even this way can take lots of space, and even this was the earlier approach to store videos. 
     * But Technology has improved in storing videos with lesser space than first approach, this new method is compression.
     
-    
+> Continue with File2/File4.md
+
+---------------------------------------------------------------------x 💠 x---------------------------------------------------------------------
