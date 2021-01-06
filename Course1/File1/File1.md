@@ -15,14 +15,13 @@ Concept :pencil: | File :bookmark_tabs:
 --------|-------
 Overview of Course1 | File1/File1.md (this)
 How computers works | File2/..
-What is Python Programming Language | File3/..
-Welcome to Python.org | File4/..
-Python Docs | File5/..
-PEP | File6/..
-Benifits of Python over others | File7/..
-Python Community | File8/..
-PyCon & PSF | File9/..
-Let's Go Python ! | File10/..
+Welcome to Python.org | File3/..
+Python Docs | File4/..
+PEP | File5/..
+Benifits of Python over others | File6/..
+Python Community | File7/..
+PyCon & PSF | File8/..
+Let's Go Python ! | File9/..
 
 
 
