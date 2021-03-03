@@ -1,4 +1,1 @@
-<--
-Overview of Computer Usage and Programming.
-Motivation to be Programmer.
--->
+# Let's Learn Computer Science 
