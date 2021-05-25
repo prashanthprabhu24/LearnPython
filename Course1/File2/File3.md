@@ -1,20 +1,12 @@
-# Data in Computer : 
-> Any Data in computer is computed and stored in the form of binary Symbols/Digits (ie. 1's and 0's)
-* Data is a peice of Information. 
-* Everything is a data , Eg: Person Name, Phone Number, Time of the meeting, Name of the File, Sets of pull up's today, Songs, Alphabets, Numbers, Symbols.
+# Data in Computer : 📂
+> Any Data in computer is computed and stored in the form of binary Symbols/Digits (ie. 1's and 0's) 1️⃣0️⃣1️⃣0️⃣1️⃣1️⃣0️⃣1️⃣
+* Data is a peice of Information. 📰
+* Everything is a data , Eg: Person Name, Phone Number, Time of the meeting, Name of the File, Number of pull up's today, Songs, Alphabets, Numbers, Symbols.
 
-<!--
-Data
-$ Data in computer hardware.
-$ Representation of data in computer.
-$ Input and Output Data.
-$ Input and output Devices.
-$ How data is stored and computed
--->
 * In Computer, there are primarily two ways data is used: 
     1. Input Data.
     2. Output Data.
-1. __Input Data :__
+1. __Input Data :__ 
     * Any Data that used by computer (given as input) is called input data
     * Eg :  1. Voice/Songs/Music from microphone or files to computer processing.
             2. Alphabets,Numbers, Symbols, Event keys from Keybord and Mouse.
@@ -35,7 +27,7 @@ $ How data is stored and computed
     6. Video &nbsp; &nbsp; {Movie.mp4. etc}
     etc. <br/>
     We will discuss each and how it stored as binary numbers in computers.<br/><br/><br/>
-* __Numbers :__
+* __Numbers :__ 🔢 
     * Any kind of Whole Numbers can be stored in computer memory by converting it into Binary Numbers by process of encoding.
     * Decimal numbers to Binary Conversion : Converting a Decimals into Binary numbers is automated in computers.
     * Converting Decimal Numbers to Binary Numbers is by Encoding.
@@ -60,11 +52,11 @@ $ How data is stored and computed
     > Eg : <br/>
         ASCII code of "A" is 65 and 65 is encoded in binary as 1000001.
 <img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_7.jpg" width="700" height="300"> <br/><br/>
-* __Images :__ 
+* __Images :__ 🖼️
     * Images are the pictures , these pictures are made up of matrix of pixels.
-    * Pixel is a digital image length and is uses to measure the quality of images and camera's.
+    * Pixel is a digital image length and is used to measure the quality of images and camera's.
     * A single image is considered as a file, hence a image file has an file name and an extention as '.jpg', '.JPEG', '.png', '.bmp', '.gif', etc.
-    > (Redmi Note 7 Pro smart phone has 48Mp(48 mega pixel) camera)<br/>
+    > (Redmi Note 7 Pro smart phone has 48MP(48 mega pixel) camera)<br/>
 <img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_8.jpg" width="180" height="200"> &nbsp;&nbsp;&nbsp;<img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_9.jpg" width="500" height="200"> <br/><br/>
     * The person in the above pic is 16th U.S President , Abraham Lincoln. 
     * The Computer takes the Image and  makes a matrix of pixel values and stores the values in the same sequence in binary format.
@@ -77,23 +69,26 @@ $ How data is stored and computed
     * In [R,G,B,A] , if A = 256, means Very high intensity, which makes pixel looks too bright as white irrespective of RGB values.
     * Hence, A values is always inbetween 0 to 255 unless we need black or while pixel colour. 
 
-* __Audio :__ 
+* __Audio :__ 〰️
     * Musics, Songs, Call recordings, voices, noise sounds are all treated as Signals in nature.
     * Sounds in nature is a wave form, which is analog known as analog waveform.
     * In that wave form we are intrested in the value of the highest point on the wave (Crest) and Lowest point (Trough) over the time.
-    * But saving all these values of the audio wave for very long time ( even for a minutes) will occupy large amount of system memory.
+    * But saving all these values of the audio wave for very long time (even for a minutes) will occupy large amount of system memory.
     * Hence to avoid this draw back, we assign a range to the wave form over amplitute and find on which range the Crest/Trough is on the perticula time.
-    * This method is called Digitization.
+    * This method is called Discretization.
+    * This range will be high or low, we assign 0 for low and 1 for high. Now we will have series of 1's and 0's for audio.
+    * This whole process including discretization is called Digitization.
     * Digitization is the process of converting information into a digital format.
     * Now , Audio in computers is exists in digital form. This digital form of audio is broken down into thousands of samples per second.
-    * Each sound samples is stored as binary data in Computer.<br/>
-* __Video :__ 
+    * Each sound samples is stored as binary data in Computer.🔊 <br/>
+* __Video :__ 📹
     * Videos are the sequence of images with an audio.
     * Seperating the Audio from the video and Digitizing the Audio into binary form.
     * Now the video is considered as a multiple image frames. More the frames per second (fps), more the quality of video.
     * Each and indivisual frames(images) in stored in binary format in same order of frame occurance.
     * Even this way can take lots of space, and even this was the earlier approach to store videos. 
     * But Technology has improved in storing videos with lesser space than first approach, this new method is compression.
+    * Compression is used to store only important information to adjust the computer memory space.
     
 > Continue with File2/File4.md
 
