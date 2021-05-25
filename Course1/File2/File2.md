@@ -3,9 +3,9 @@
 * Computers are fully functioning with the large number of diffrent programs to do diffrent tasks concurrently.<br/>
 * Every program has its own specific task to do. <br/>
 * For example, Music player is a application program that plays the music and Browser is an application program that helps to browse over internet. <br/>
-* There are two kinds of Computer Program 📂 <br/>
-  _1. Application Program (AKA Application Software) <br/>
-  _1. System Program (AKA System Software)<br/>
+* There are two kinds of Computer Program 📂 : <br/>
+  1. Application Program (AKA Application Software) <br/>
+  2. System Program (AKA System Software) <br/>
   
 1. **Application Program** : 🎥 <br/>
  * Application Program is a executable program which is not the part of system but installed by user. 🎮<br/> 
