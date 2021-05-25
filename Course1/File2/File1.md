@@ -34,7 +34,7 @@ How Could he possibly communicate with him ? <br/>
 <img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_4.jpeg" width="700" height="300"> <br/>
 <br/>
 
-* Python is one of the famous High Level Language. It uses 'Intrepeter' as translator to make computer work what we say. <br/>
+* Python is one of the famous High Level Language. It uses 'Intrepeter' as translator to make computer works on our commands. <br/>
 > Continue with File2/File2.md
 
 ---------------------------------------------------------------------x :diamond_shape_with_a_dot_inside: x---------------------------------------------------------------------
