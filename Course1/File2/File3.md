@@ -44,7 +44,8 @@
     * Even Negative Numbers can be Converted into Binary.
     * Its possible to Convert Decimal Back from Binary and its Known as Binary to decimal Conversion through Decoding
     * The Numbers is converted into Decimal is stored. and it retrieved back as Decimal Numbers automatically by computers.<br/>
-    > Here is a table of Decimal numbers and its Equivalent Binary Numbers
+    > Eg : 
+    Here is a table of Decimal numbers and its Equivalent Binary Numbers
     <img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_6.jpg" width="700" height="300"> <br/><br/>
 * __Letters and Symbols :__
     * Any English Alphabets / Special symbols/greek symbols/Other languages can be converted into Binary.
