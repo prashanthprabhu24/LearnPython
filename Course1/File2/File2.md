@@ -27,13 +27,13 @@
   1. OS loads the Music player program from RAM to CPU.
   1. CPU executes the Music player Code and OS allocates required resourse needed to it like speaker permission, storage access permissions etc.
   1. Music Files are accessed from Hard disc/ROM.
-  1. Feeds to current Music file to ROM.
+  1. Feeds to current Music file to RAM.
   1. Running Music player Gets access to Speaker and plays the Song.
 * Every files has its own extention , so the OS can recognize what the file is used for. Eg : MP3 music file has _'.mp3'_ as extention, Text file has _'.txt' as extention. et al.
 * Even all executable application software has _'.exe'_ as extention. _Eg : Setup.exe ._
-* Python program file has _' .py'_ as extention. _Eg : Helloworld.py_
+* Python program file has _' .py'_ as extention. _Eg : HelloWorld.py_
 * When we learn to write a any programs , our main aim is to make it as executable code and make it run like an Application software. So it can run on any computers. 
-* We write Python program as _.py_ files and once it completed we make it as _.exe_ files.<br/>
+* We write Python program as _.py_ files and once it completed we make it as _.exe_ files(We will learn in Course2).<br/>
 > Continue with File2/File3.md
 
 ---------------------------------------------------------------------x :diamond_shape_with_a_dot_inside: x---------------------------------------------------------------------
