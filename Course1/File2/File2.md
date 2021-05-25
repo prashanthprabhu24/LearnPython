@@ -8,7 +8,7 @@
   _1. System Program (AKA System Software)<br/>
   
 1. **Application Program** : 🎥 <br/>
- * Application Program is a executable program which is not the part of system but installed by user. <br/> 🎮
+ * Application Program is a executable program which is not the part of system but installed by user. 🎮<br/> 
  * These application (App) can be WordProcess, Web Browsers, Photo/Video Editors, Spread Sheet, Media Player File viewer, Games, etc. <br/>
  * Everything ( .exe files ) that being installed seperatly from internet or any other source is an application software / App .<br/><br/>
 2. **System Program** : 🔊<br/>
