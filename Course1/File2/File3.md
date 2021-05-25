@@ -45,7 +45,8 @@
     * Its possible to Convert Decimal Back from Binary and its Known as Binary to decimal Conversion through Decoding
     * The Numbers is converted into Decimal is stored. and it retrieved back as Decimal Numbers automatically by computers.
    <br/>
- <img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_6.jpg" width="700" height="300"> <br/><br/>
+ > 
+ > <img src="https://github.com/prashanthprabhu24/LearnPython/raw/main/Dust/file2_6.jpg" width="700" height="300"> <br/><br/>
 * __Letters and Symbols :__
     * Any English Alphabets / Special symbols/greek symbols/Other languages can be converted into Binary.
     * ASCII : American Standard Code for Information Interchange. This converts(encodes) alphabets/symbols into decimal numbers and then indirectly to binary.
