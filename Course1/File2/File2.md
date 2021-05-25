@@ -33,7 +33,7 @@
 * Even all executable application software has _'.exe'_ as extention. _Eg : Setup.exe ._
 * Python program file has _' .py'_ as extention. _Eg : HelloWorld.py_
 * When we learn to write a any programs , our main aim is to make it as executable code and make it run like an Application software. So it can run on any computers. 
-* We write Python program as _.py_ files and once it completed we make it as _.exe_ files(We will learn in Course2).<br/>
+* We write Python program as _.py_ files and once it completed we make it as _.exe_ files (We will learn in Course2).<br/>
 > Continue with File2/File3.md
 
 ---------------------------------------------------------------------x :diamond_shape_with_a_dot_inside: x---------------------------------------------------------------------
