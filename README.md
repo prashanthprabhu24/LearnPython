@@ -12,7 +12,7 @@ For more , Read the **"LICENCE"** :hugs:
   * Course1 - Why to Program Computer and Why Python ?
   * Course2 - Basics of Programming and Python .
   * Course3 - Intermediate Python and Skilled Programming methods .
-  * Course4 - Advance Modules usage .
-  * Course5 - Intro to Machine Learning through Python .
-  * Course6 - Tips and Tricks for life long programmers !
-> Thanks for being here:heart:
+  * Course4 - Advance Python Programming and Projects .
+  * Course5 - Tips and Tricks for life long programmers !
+> Thanks for being here:heart:. 
+> Hope this helped you to learn much. Consider to Donate so that we can make more concepts to provide. Donate @prashanthprabhu1998@gmail.com (gmail)
